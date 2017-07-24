@@ -1,7 +1,9 @@
 package com.ubs.opsit.interviews.enums;
+
 /**
- * BerlinClockRedLamps
- * The ENUM for occurence of Red Lamps in the minutes first row.
+ * 
+ * ENUM for occurence of Red Lamps in the minutes first row.
+ * 
  * @author shivamoberoi
  *
  */

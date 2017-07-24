@@ -1,7 +1,9 @@
 package com.ubs.opsit.interviews.enums;
+
 /**
- * BerlinClockLampValue
- * The ENUM the value of each lamp in each row.
+ * 
+ * ENUM the value of each lamp in each row.
+ * 
  * @author shivamoberoi
  *
  */

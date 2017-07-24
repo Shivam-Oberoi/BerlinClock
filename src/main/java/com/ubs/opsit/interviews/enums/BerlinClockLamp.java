@@ -1,7 +1,8 @@
 package com.ubs.opsit.interviews.enums;
+
 /**
- * BerlinClockLamp
- * The Enum having all different lamps.
+ * Enum having all different lamps.
+ * 
  * @author shivamoberoi
  *
  */
