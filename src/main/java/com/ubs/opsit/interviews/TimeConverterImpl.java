@@ -27,8 +27,10 @@ public class TimeConverterImpl implements TimeConverter {
 	/**
 	 * Converts the String into a BerlinClock format.
 	 * 
-	 * @param aTime-
-	 *            time format in HH:MM:SS
+	 * @param aTime
+	 *            - time format in HH:MM:SS
+	 * @return the converted Berlin Clock Format
+	 * 
 	 * 
 	 */
 	public String convertTime(String aTime) {
